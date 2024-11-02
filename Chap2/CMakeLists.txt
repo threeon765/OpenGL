@@ -17,7 +17,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /utf-8")
 set(PROJECT_NAME Chap2) # 프로젝트 이름 Chap2
 set(CMAKE_CXX_STANDARD 17) # C++ 버전 17
 
-set(WINDOW_NAME "Hello, OpenGL!") # 윈도우 이름 및 해상도 설정
+set(WINDOW_NAME "First OpenGL Example") # 윈도우 이름 및 해상도 설정
 set(WINDOW_WIDTH 960)
 set(WINDOW_HEIGHT 540)
 
